@@ -69,8 +69,8 @@ export const NAV_LINKS = [
   export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
-      { label: 'Phone', value: '+91 8470907622', link: 'tel:+91 8470907622' },
-      { label: 'Email', value: 'pratishri123@gmail.com', link: 'mailto:pratishri123@gmail.com' },
+      { label: 'Phone', value: '+91 6393827699', link: 'tel:+91 6393827699' },
+      { label: 'Email', value: 'harshshukla5092002@gmail.com', link: 'mailto:harshshukla5092002@gmail.com' },
     ],
   };
   
